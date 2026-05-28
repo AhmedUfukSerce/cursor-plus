@@ -1,0 +1,9 @@
+# Swift Package Manager build artifacts
+.build/
+.swiftpm/
+
+# Built app bundle (produced by scripts/build_app.sh)
+Cursor+.app/
+
+# macOS
+.DS_Store

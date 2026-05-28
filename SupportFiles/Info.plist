@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.aus.cursorplus</string>
+    <key>CFBundleExecutable</key>
+    <string>CursorPlus</string>
+    <key>CFBundleName</key>
+    <string>Cursor+</string>
+    <key>CFBundleDisplayName</key>
+    <string>Cursor+</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <!-- Menu-bar agent: no Dock icon, no app switcher entry. -->
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHumanReadableCopyright</key>
+    <string>Cursor+ - personal use.</string>
+    <!-- Programmatic on/off via URL scheme. PHB (and any other automation)
+         can fire `open cursorplus://start` and `open cursorplus://stop` to
+         flip the bot without clicking the menu-bar item. The triple-ESC
+         kill switch and Auto-Pause-on-real-input semantics still apply. -->
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleURLName</key>
+            <string>com.aus.cursorplus.control</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>cursorplus</string>
+            </array>
+        </dict>
+    </array>
+</dict>
+</plist>

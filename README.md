@@ -52,21 +52,6 @@ Each move samples a speed class, from very slow to very fast, then a real veloci
 
 A jiggler that pauses when you touch the mouse has a problem: it has to tell its own motion apart from yours, or it will pause on itself and never move. Cursor+ does this out of band. It keeps a small private log of every move it just posted, and the kill switch checks against that log instead of stamping a marker on the events. It never tags its own output. The one thing no app can hide is the process ID macOS attaches to every posted event, but nothing Cursor+ itself adds gives the motion away.
 
-```mermaid
-flowchart TD
-  AC["AppController<br/>coordinator + safety watchdog"] --> SM["StateMachine<br/>wander, scroll, click, rest"]
-  SM -- "builds a path" --> ME["MovementEngine<br/>curved paths, easing, 8 to 12 Hz tremor"]
-  SM -- "posts it" --> IE["InputEngine<br/>real CGEvent moves and scrolls"]
-  IE --> OS([macOS HID layer])
-  IE -- "logs each move it makes" --> SIL["SyntheticInputLog"]
-  KS["KillSwitch<br/>triple-Esc global tap, self-healing"] --> AC
-  SIL -. "so it can tell its own motion from yours" .-> KS
-  classDef os fill:#10331f,stroke:#3fb950,color:#e6edf3;
-  classDef safe fill:#11233f,stroke:#58a6ff,color:#e6edf3;
-  class OS os
-  class KS,SIL safe
-```
-
 - It only clicks inside the areas you define, never random or empty space. With no areas set it just moves and scrolls.
 - It auto pauses the instant you use the mouse or keyboard, and comes back once you go idle.
 - It freezes while a password field or the lock screen is focused, so the Esc kill gesture is never in doubt.

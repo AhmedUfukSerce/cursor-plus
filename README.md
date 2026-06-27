@@ -2,7 +2,7 @@
 
 # Cursor+
 
-<img src="docs/cursor-hero.svg" alt="A cursor tracing a curved, human path with hand tremor and pausing to click a zone, next to a faint straight jiggler line" width="720">
+<img src="docs/cursor-hero.svg" alt="A cursor tracing a curved, human path with hand tremor and pausing to click a zone, next to a faint straight jiggler line" width="760">
 
 **A macOS menu bar app that keeps your Mac awake by moving the cursor the way a hand would, not the way a metronome would.**
 

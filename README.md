@@ -45,7 +45,7 @@ stateDiagram-v2
 Each move samples a speed class, from very slow to very fast, then a real velocity inside it, and follows a curved path with a band-limited 8 to 12 Hz tremor layered on, the same frequency as a real hand. Four presets shift where that speed lives.
 
 <div align="center">
-<img src="docs/cursor-speed.svg" alt="Four motion presets showing how the weight shifts from slow speed classes in Calm to fast ones in Wild" width="720">
+<img src="docs/cursor-speed.svg" alt="Four motion presets showing how the weight shifts from slow speed classes in Calm to fast ones in Wild" width="760">
 </div>
 
 ## How it knows its own moves, and how it stays safe

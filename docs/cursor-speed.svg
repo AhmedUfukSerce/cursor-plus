@@ -1,69 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 270" width="760" height="270" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-<rect x="1" y="1" width="758" height="268" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-<text x="24" y="34" font-size="16" font-weight="700" fill="#e6edf3">Motion presets: where the speed lives</text>
-<line x1="24" y1="46" x2="736" y2="46" stroke="#21262d" stroke-width="1"/>
-<text x="104.0" y="66" font-size="13" font-weight="700" fill="#e6edf3" text-anchor="middle">Calm</text>
-<line x1="38.0" y1="156" x2="170.0" y2="156" stroke="#21262d" stroke-width="1"/>
-<rect x="40.0" y="98.0" width="16" height="58.0" rx="2" fill="#39c5cf"/>
-<text x="48.0" y="95.0" font-size="8.5" fill="#6e7681" text-anchor="middle">5</text>
-<rect x="68.0" y="109.6" width="16" height="46.4" rx="2" fill="#5fbaa4"/>
-<text x="76.0" y="106.6" font-size="8.5" fill="#6e7681" text-anchor="middle">4</text>
-<rect x="96.0" y="132.8" width="16" height="23.2" rx="2" fill="#86af79"/>
-<text x="104.0" y="129.8" font-size="8.5" fill="#6e7681" text-anchor="middle">2</text>
-<rect x="124.0" y="144.4" width="16" height="11.6" rx="2" fill="#aca44d"/>
-<text x="132.0" y="141.4" font-size="8.5" fill="#6e7681" text-anchor="middle">1</text>
-<rect x="152.0" y="150.2" width="16" height="5.8" rx="2" fill="#d29922"/>
-<text x="160.0" y="147.2" font-size="8.5" fill="#6e7681" text-anchor="middle">0.5</text>
-<text x="104.0" y="168" font-size="11" fill="#8b949e" text-anchor="middle">slow &#8594; fast</text>
-<text x="288.0" y="66" font-size="13" font-weight="700" fill="#e6edf3" text-anchor="middle">Balanced</text>
-<text x="288.0" y="79" font-size="10" fill="#d29922" text-anchor="middle">&#9733; default</text>
-<line x1="222.0" y1="156" x2="354.0" y2="156" stroke="#21262d" stroke-width="1"/>
-<rect x="224.0" y="127.0" width="16" height="29.0" rx="2" fill="#39c5cf"/>
-<text x="232.0" y="124.0" font-size="8.5" fill="#6e7681" text-anchor="middle">2</text>
-<rect x="252.0" y="112.5" width="16" height="43.5" rx="2" fill="#5fbaa4"/>
-<text x="260.0" y="109.5" font-size="8.5" fill="#6e7681" text-anchor="middle">3</text>
-<rect x="280.0" y="98.0" width="16" height="58.0" rx="2" fill="#86af79"/>
-<text x="288.0" y="95.0" font-size="8.5" fill="#6e7681" text-anchor="middle">4</text>
-<rect x="308.0" y="127.0" width="16" height="29.0" rx="2" fill="#aca44d"/>
-<text x="316.0" y="124.0" font-size="8.5" fill="#6e7681" text-anchor="middle">2</text>
-<rect x="336.0" y="141.5" width="16" height="14.5" rx="2" fill="#d29922"/>
-<text x="344.0" y="138.5" font-size="8.5" fill="#6e7681" text-anchor="middle">1</text>
-<text x="288.0" y="168" font-size="11" fill="#8b949e" text-anchor="middle">slow &#8594; fast</text>
-<text x="472.0" y="66" font-size="13" font-weight="700" fill="#e6edf3" text-anchor="middle">Lively</text>
-<line x1="406.0" y1="156" x2="538.0" y2="156" stroke="#21262d" stroke-width="1"/>
-<rect x="408.0" y="141.5" width="16" height="14.5" rx="2" fill="#39c5cf"/>
-<text x="416.0" y="138.5" font-size="8.5" fill="#6e7681" text-anchor="middle">1</text>
-<rect x="436.0" y="127.0" width="16" height="29.0" rx="2" fill="#5fbaa4"/>
-<text x="444.0" y="124.0" font-size="8.5" fill="#6e7681" text-anchor="middle">2</text>
-<rect x="464.0" y="112.5" width="16" height="43.5" rx="2" fill="#86af79"/>
-<text x="472.0" y="109.5" font-size="8.5" fill="#6e7681" text-anchor="middle">3</text>
-<rect x="492.0" y="98.0" width="16" height="58.0" rx="2" fill="#aca44d"/>
-<text x="500.0" y="95.0" font-size="8.5" fill="#6e7681" text-anchor="middle">4</text>
-<rect x="520.0" y="127.0" width="16" height="29.0" rx="2" fill="#d29922"/>
-<text x="528.0" y="124.0" font-size="8.5" fill="#6e7681" text-anchor="middle">2</text>
-<text x="472.0" y="168" font-size="11" fill="#8b949e" text-anchor="middle">slow &#8594; fast</text>
-<text x="656.0" y="66" font-size="13" font-weight="700" fill="#e6edf3" text-anchor="middle">Wild</text>
-<line x1="590.0" y1="156" x2="722.0" y2="156" stroke="#21262d" stroke-width="1"/>
-<rect x="592.0" y="150.2" width="16" height="5.8" rx="2" fill="#39c5cf"/>
-<text x="600.0" y="147.2" font-size="8.5" fill="#6e7681" text-anchor="middle">0.5</text>
-<rect x="620.0" y="144.4" width="16" height="11.6" rx="2" fill="#5fbaa4"/>
-<text x="628.0" y="141.4" font-size="8.5" fill="#6e7681" text-anchor="middle">1</text>
-<rect x="648.0" y="132.8" width="16" height="23.2" rx="2" fill="#86af79"/>
-<text x="656.0" y="129.8" font-size="8.5" fill="#6e7681" text-anchor="middle">2</text>
-<rect x="676.0" y="121.2" width="16" height="34.8" rx="2" fill="#aca44d"/>
-<text x="684.0" y="118.2" font-size="8.5" fill="#6e7681" text-anchor="middle">3</text>
-<rect x="704.0" y="98.0" width="16" height="58.0" rx="2" fill="#d29922"/>
-<text x="712.0" y="95.0" font-size="8.5" fill="#6e7681" text-anchor="middle">5</text>
-<text x="656.0" y="168" font-size="11" fill="#8b949e" text-anchor="middle">slow &#8594; fast</text>
-<rect x="24.0" y="187.0" width="11" height="11" rx="2" fill="#39c5cf"/>
-<text x="41.0" y="196.0" font-size="10.5" fill="#8b949e">very slow <tspan fill="#6e7681">80-150</tspan></text>
-<rect x="173.0" y="187.0" width="11" height="11" rx="2" fill="#5fbaa4"/>
-<text x="190.0" y="196.0" font-size="10.5" fill="#8b949e">slow <tspan fill="#6e7681">150-350</tspan></text>
-<rect x="295.6" y="187.0" width="11" height="11" rx="2" fill="#86af79"/>
-<text x="312.6" y="196.0" font-size="10.5" fill="#8b949e">normal <tspan fill="#6e7681">350-700</tspan></text>
-<rect x="431.4" y="187.0" width="11" height="11" rx="2" fill="#aca44d"/>
-<text x="448.4" y="196.0" font-size="10.5" fill="#8b949e">fast <tspan fill="#6e7681">700-1400</tspan></text>
-<rect x="560.6" y="187.0" width="11" height="11" rx="2" fill="#d29922"/>
-<text x="577.6" y="196.0" font-size="10.5" fill="#8b949e">very fast <tspan fill="#6e7681">1400-3000 px/s</tspan></text>
-<text x="24" y="240" font-size="11.5" fill="#6e7681">Calm leans slow and gentle. Wild leans fast. Balanced sits in the middle, the recommended default.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<rect x="1" y="1" width="758" height="318" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="36" font-size="16" font-weight="700" fill="#e6edf3">Motion presets: where the speed lives</text>
+<line x1="0" y1="56" x2="760" y2="56" stroke="#30363d"/>
+<text x="110" y="92" font-size="15" font-weight="700" fill="#e6edf3" text-anchor="middle">Calm</text>
+<line x1="45.0" y1="232" x2="175.0" y2="232" stroke="#21262d" stroke-width="1"/>
+<rect x="51.0" width="18" rx="2" fill="#39c5cf" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;146.0;146.0;232" keyTimes="0;0.03;0.08;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;86.0;86.0;0" keyTimes="0;0.03;0.08;0.93;1"/></rect>
+<text x="60.0" y="139.0" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">5<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.03;0.08;0.93;1"/></text>
+<rect x="76.0" width="18" rx="2" fill="#5bbf9e" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;163.2;163.2;232" keyTimes="0;0.042;0.092;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;68.8;68.8;0" keyTimes="0;0.042;0.092;0.93;1"/></rect>
+<text x="85.0" y="156.2" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">4<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.042;0.092;0.93;1"/></text>
+<rect x="101.0" width="18" rx="2" fill="#86b06a" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;197.6;197.6;232" keyTimes="0;0.054;0.104;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;34.4;34.4;0" keyTimes="0;0.054;0.104;0.93;1"/></rect>
+<text x="110.0" y="190.6" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">2<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.054;0.104;0.93;1"/></text>
+<rect x="126.0" width="18" rx="2" fill="#b39a4a" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;214.8;214.8;232" keyTimes="0;0.066;0.116;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;17.2;17.2;0" keyTimes="0;0.066;0.116;0.93;1"/></rect>
+<text x="135.0" y="207.8" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">1<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.066;0.116;0.93;1"/></text>
+<rect x="151.0" width="18" rx="2" fill="#d29922" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;223.4;223.4;232" keyTimes="0;0.078;0.128;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;8.6;8.6;0" keyTimes="0;0.078;0.128;0.93;1"/></rect>
+<text x="160.0" y="216.4" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">0.5<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.078;0.128;0.93;1"/></text>
+<text x="110" y="254" font-size="11.5" fill="#6e7681" text-anchor="middle">slow &#8594; fast</text>
+<text x="290" y="92" font-size="15" font-weight="700" fill="#e6edf3" text-anchor="middle">Balanced</text>
+<text x="290" y="110" font-size="12" fill="#d29922" text-anchor="middle">&#9733; default</text>
+<line x1="225.0" y1="232" x2="355.0" y2="232" stroke="#21262d" stroke-width="1"/>
+<rect x="231.0" width="18" rx="2" fill="#39c5cf" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;189.0;189.0;232" keyTimes="0;0.09;0.14;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;43.0;43.0;0" keyTimes="0;0.09;0.14;0.93;1"/></rect>
+<text x="240.0" y="182.0" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">2<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.09;0.14;0.93;1"/></text>
+<rect x="256.0" width="18" rx="2" fill="#5bbf9e" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;167.5;167.5;232" keyTimes="0;0.102;0.152;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;64.5;64.5;0" keyTimes="0;0.102;0.152;0.93;1"/></rect>
+<text x="265.0" y="160.5" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">3<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.102;0.152;0.93;1"/></text>
+<rect x="281.0" width="18" rx="2" fill="#86b06a" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;146.0;146.0;232" keyTimes="0;0.114;0.164;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;86.0;86.0;0" keyTimes="0;0.114;0.164;0.93;1"/></rect>
+<text x="290.0" y="139.0" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">4<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.114;0.164;0.93;1"/></text>
+<rect x="306.0" width="18" rx="2" fill="#b39a4a" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;189.0;189.0;232" keyTimes="0;0.126;0.176;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;43.0;43.0;0" keyTimes="0;0.126;0.176;0.93;1"/></rect>
+<text x="315.0" y="182.0" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">2<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.126;0.176;0.93;1"/></text>
+<rect x="331.0" width="18" rx="2" fill="#d29922" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;210.5;210.5;232" keyTimes="0;0.138;0.188;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;21.5;21.5;0" keyTimes="0;0.138;0.188;0.93;1"/></rect>
+<text x="340.0" y="203.5" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">1<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.138;0.188;0.93;1"/></text>
+<text x="290" y="254" font-size="11.5" fill="#6e7681" text-anchor="middle">slow &#8594; fast</text>
+<text x="470" y="92" font-size="15" font-weight="700" fill="#e6edf3" text-anchor="middle">Lively</text>
+<line x1="405.0" y1="232" x2="535.0" y2="232" stroke="#21262d" stroke-width="1"/>
+<rect x="411.0" width="18" rx="2" fill="#39c5cf" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;210.5;210.5;232" keyTimes="0;0.15;0.2;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;21.5;21.5;0" keyTimes="0;0.15;0.2;0.93;1"/></rect>
+<text x="420.0" y="203.5" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">1<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.15;0.2;0.93;1"/></text>
+<rect x="436.0" width="18" rx="2" fill="#5bbf9e" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;189.0;189.0;232" keyTimes="0;0.162;0.212;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;43.0;43.0;0" keyTimes="0;0.162;0.212;0.93;1"/></rect>
+<text x="445.0" y="182.0" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">2<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.162;0.212;0.93;1"/></text>
+<rect x="461.0" width="18" rx="2" fill="#86b06a" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;167.5;167.5;232" keyTimes="0;0.174;0.224;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;64.5;64.5;0" keyTimes="0;0.174;0.224;0.93;1"/></rect>
+<text x="470.0" y="160.5" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">3<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.174;0.224;0.93;1"/></text>
+<rect x="486.0" width="18" rx="2" fill="#b39a4a" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;146.0;146.0;232" keyTimes="0;0.186;0.236;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;86.0;86.0;0" keyTimes="0;0.186;0.236;0.93;1"/></rect>
+<text x="495.0" y="139.0" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">4<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.186;0.236;0.93;1"/></text>
+<rect x="511.0" width="18" rx="2" fill="#d29922" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;189.0;189.0;232" keyTimes="0;0.198;0.248;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;43.0;43.0;0" keyTimes="0;0.198;0.248;0.93;1"/></rect>
+<text x="520.0" y="182.0" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">2<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.198;0.248;0.93;1"/></text>
+<text x="470" y="254" font-size="11.5" fill="#6e7681" text-anchor="middle">slow &#8594; fast</text>
+<text x="650" y="92" font-size="15" font-weight="700" fill="#e6edf3" text-anchor="middle">Wild</text>
+<line x1="585.0" y1="232" x2="715.0" y2="232" stroke="#21262d" stroke-width="1"/>
+<rect x="591.0" width="18" rx="2" fill="#39c5cf" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;223.4;223.4;232" keyTimes="0;0.21;0.26;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;8.6;8.6;0" keyTimes="0;0.21;0.26;0.93;1"/></rect>
+<text x="600.0" y="216.4" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">0.5<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.21;0.26;0.93;1"/></text>
+<rect x="616.0" width="18" rx="2" fill="#5bbf9e" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;214.8;214.8;232" keyTimes="0;0.222;0.272;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;17.2;17.2;0" keyTimes="0;0.222;0.272;0.93;1"/></rect>
+<text x="625.0" y="207.8" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">1<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.222;0.272;0.93;1"/></text>
+<rect x="641.0" width="18" rx="2" fill="#86b06a" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;197.6;197.6;232" keyTimes="0;0.234;0.284;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;34.4;34.4;0" keyTimes="0;0.234;0.284;0.93;1"/></rect>
+<text x="650.0" y="190.6" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">2<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.234;0.284;0.93;1"/></text>
+<rect x="666.0" width="18" rx="2" fill="#b39a4a" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;180.4;180.4;232" keyTimes="0;0.246;0.296;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;51.6;51.6;0" keyTimes="0;0.246;0.296;0.93;1"/></rect>
+<text x="675.0" y="173.4" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">3<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.246;0.296;0.93;1"/></text>
+<rect x="691.0" width="18" rx="2" fill="#d29922" y="232" height="0"><animate attributeName="y" dur="5.0s" repeatCount="indefinite" values="232;232;146.0;146.0;232" keyTimes="0;0.258;0.308;0.93;1"/><animate attributeName="height" dur="5.0s" repeatCount="indefinite" values="0;0;86.0;86.0;0" keyTimes="0;0.258;0.308;0.93;1"/></rect>
+<text x="700.0" y="139.0" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">5<animate attributeName="opacity" dur="5.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.258;0.308;0.93;1"/></text>
+<text x="650" y="254" font-size="11.5" fill="#6e7681" text-anchor="middle">slow &#8594; fast</text>
+<rect x="37.3" y="276" width="12" height="12" rx="2" fill="#39c5cf"/>
+<text x="55.3" y="286" font-size="11.5" fill="#8b949e">very slow 80-150</text>
+<rect x="178.9" y="276" width="12" height="12" rx="2" fill="#5bbf9e"/>
+<text x="196.9" y="286" font-size="11.5" fill="#8b949e">slow 150-350</text>
+<rect x="294.1" y="276" width="12" height="12" rx="2" fill="#86b06a"/>
+<text x="312.1" y="286" font-size="11.5" fill="#8b949e">normal 350-700</text>
+<rect x="422.5" y="276" width="12" height="12" rx="2" fill="#b39a4a"/>
+<text x="440.5" y="286" font-size="11.5" fill="#8b949e">fast 700-1400</text>
+<rect x="544.3" y="276" width="12" height="12" rx="2" fill="#d29922"/>
+<text x="562.3" y="286" font-size="11.5" fill="#8b949e">very fast 1400-3000 px/s</text>
+<text x="24" y="310" font-size="12.5" fill="#6e7681">Calm leans slow and gentle. Wild leans fast. Balanced sits in the middle, the recommended default.</text>
 </svg>

@@ -7,8 +7,9 @@
 <line x1="0" y1="56" x2="760" y2="56" stroke="#30363d"/>
 <text x="150" y="86" font-size="12.5" fill="#58a6ff" opacity="0.9">Cursor+ curves, varies speed, trembles</text>
 <line x1="90" y1="210" x2="604" y2="150" stroke="#6e7681" stroke-width="1.5" stroke-dasharray="2 6" opacity="0.55"/>
-<text x="280" y="196" font-size="11.5" fill="#6e7681">a jiggler goes straight</text>
 <path d="M 90.0 210.0 C 104.3 196.0 145.7 125.3 176.0 126.0 C 206.3 126.7 238.3 213.0 272.0 214.0 C 305.7 215.0 344.7 133.0 378.0 132.0 C 411.3 131.0 434.3 205.0 472.0 208.0 C 509.7 211.0 571.7 149.3 604.0 150.0 C 636.3 150.7 672.3 196.3 666.0 212.0 C 659.7 227.7 614.7 240.3 566.0 244.0 C 517.3 247.7 434.7 234.0 374.0 234.0 C 313.3 234.0 249.3 248.0 202.0 244.0 C 154.7 240.0 108.7 215.7 90.0 210.0" fill="none" stroke="#58a6ff" stroke-width="2" opacity="0.30"/>
+<rect x="261" y="167" width="172" height="22" rx="6" fill="#0d1117"/>
+<text x="347" y="184" font-size="11.5" fill="#6e7681" text-anchor="middle">a jiggler goes straight</text>
 <rect x="542" y="121" width="124" height="58" rx="8" fill="#388bfd" fill-opacity="0.10" stroke="#388bfd" stroke-width="1.5" stroke-dasharray="5 4"/>
 <text x="604" y="112" font-size="12" fill="#388bfd" text-anchor="middle">click zone</text>
 <circle cx="604" cy="150" r="3" fill="none" stroke="#3fb950" stroke-width="2" opacity="0">

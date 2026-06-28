@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 244" width="760" height="244" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<text x="150" y="30" font-size="12.5" fill="#58a6ff" opacity="0.9">Cursor+ curves, varies speed, trembles</text>
+<line x1="90" y1="154" x2="604" y2="94" stroke="#6e7681" stroke-width="1.5" stroke-dasharray="2 6" opacity="0.55"/>
+<path d="M 90.0 154.0 C 104.3 140.0 145.7 69.3 176.0 70.0 C 206.3 70.7 238.3 157.0 272.0 158.0 C 305.7 159.0 344.7 77.0 378.0 76.0 C 411.3 75.0 434.3 149.0 472.0 152.0 C 509.7 155.0 571.7 93.3 604.0 94.0 C 636.3 94.7 672.3 140.3 666.0 156.0 C 659.7 171.7 614.7 184.3 566.0 188.0 C 517.3 191.7 434.7 178.0 374.0 178.0 C 313.3 178.0 249.3 192.0 202.0 188.0 C 154.7 184.0 108.7 159.7 90.0 154.0" fill="none" stroke="#58a6ff" stroke-width="2" opacity="0.32"/>
+<rect x="261" y="111" width="172" height="22" rx="6" fill="#0d1117"/>
+<text x="347" y="128" font-size="11.5" fill="#6e7681" text-anchor="middle">a jiggler goes straight</text>
+<rect x="542" y="65" width="124" height="58" rx="8" fill="#388bfd" fill-opacity="0.10" stroke="#388bfd" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="604" y="56" font-size="12" fill="#388bfd" text-anchor="middle">click zone</text>
+<circle cx="604" cy="94" r="3" fill="none" stroke="#3fb950" stroke-width="2" opacity="0"><animate attributeName="r" dur="7.2s" repeatCount="indefinite" values="3;3;22;28" keyTimes="0;0.492;0.552;0.602"/><animate attributeName="opacity" dur="7.2s" repeatCount="indefinite" values="0;0;0.95;0" keyTimes="0;0.492;0.522;0.602"/></circle>
+<g><animateMotion dur="7.2s" repeatCount="indefinite" calcMode="linear" path="M 90.0 154.0 C 104.3 140.0 145.7 69.3 176.0 70.0 C 206.3 70.7 238.3 157.0 272.0 158.0 C 305.7 159.0 344.7 77.0 378.0 76.0 C 411.3 75.0 434.3 149.0 472.0 152.0 C 509.7 155.0 571.7 93.3 604.0 94.0 C 636.3 94.7 672.3 140.3 666.0 156.0 C 659.7 171.7 614.7 184.3 566.0 188.0 C 517.3 191.7 434.7 178.0 374.0 178.0 C 313.3 178.0 249.3 192.0 202.0 188.0 C 154.7 184.0 108.7 159.7 90.0 154.0"/><g><animateTransform attributeName="transform" type="translate" dur="0.13s" repeatCount="indefinite" values="0 0; 0.7 -0.5; -0.6 0.4; 0.3 0.6; 0 0"/><path d="M0 0 L0 17 L4.3 13 L7 19 L9.4 18 L6.6 12.2 L12 12 Z" fill="#f0f6fc" stroke="#0b1016" stroke-width="1" stroke-linejoin="round"/></g></g>
+<text x="6" y="228" font-size="13" fill="#6e7681">moves like a hand, not a metronome  &#183;  pauses when you take over  &#183;  Esc Esc Esc to stop</text>
+</svg>
